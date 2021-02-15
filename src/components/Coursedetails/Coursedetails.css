@@ -1,0 +1,60 @@
+div button{
+    color:white;
+    height:36px;
+    width:100px;
+    line-height: 1rem;
+    text-align: center;
+    white-space: nowrap;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 0.8rem;
+    font-family: OpenSans,Arial,sans-serif;
+    border-radius: 3px;
+    display: inline-block;
+    background-color: rgb(42, 115, 204);
+    border: 1px solid rgb(42, 115, 204);
+    padding: 0.5rem 1rem;
+    font-size: 0.8rem;
+    min-height: 36px;
+}
+
+.courses{
+    border:1px solid black;
+    border-radius:10px;
+    margin-top:10px;
+    margin-bottom:15px;
+    padding: 1.125rem;
+    text-align:left;
+    font-size: 14px;
+    line-height: 21px;
+    font-family: OpenSans,Arial,sans-serif;
+    box-shadow: 1px 1px 1px 1px;
+}
+
+.courseI{
+    font-size: 1.25rem;
+    color:maroon;
+    line-height: 1.875rem;
+    font-family: OpenSans-light,Arial,sans-serif;
+    max-width: 100%;
+    cursor: pointer;
+    font-weight: bold;
+    font-size:xx-large;
+}
+.courseIn {
+    font-size:.9rem;
+    color: #6e767f;
+    cursor: pointer;
+    line-height: 21px;
+    font-family: OpenSans,Arial,sans-serif;
+    
+}
+
+.instructor-profile{
+    text-decoration: underline;
+}
+
+.priceCss{
+    color:royalblue;
+}
+
